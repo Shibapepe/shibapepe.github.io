@@ -336,29 +336,23 @@ $(document).ready(function() {
         },
         "dataProvider": [{
             "Tokenomics": "Liquidity",
-            "Percentage": 18
+            "Percentage": 25
         }, {
             "Tokenomics": "Staking/Farming rewards",
-            "Percentage": 12
+            "Percentage": 15
         }, {
             "Tokenomics": "Marketing/developments",
-            "Percentage": 10
+            "Percentage": 5
         }, {
             "Tokenomics": "Burn",
-            "Percentage": 40
-        }, {
-            "Tokenomics": "Lending protocol",
-            "Percentage": 6
-        }, {
-            "Tokenomics": "GameFi/NFT/Metaverse",
-            "Percentage": 5
-        }, {
+            "Percentage": 50
+        },  {
             "Tokenomics": "Community rewards/Airdrops",
             "color": "#fff",
-            "Percentage": 5
+            "Percentage": 2
         }, {
             "Tokenomics": "Team",
-            "Percentage": 4
+            "Percentage": 3
         }],
         "valueField": "Percentage",
         "titleField": "Tokenomics",
@@ -374,36 +368,28 @@ $(document).ready(function() {
         "startDuration": 2,
         "dataProvider": [{
             "Tokenomics": "Liquidity",
-            "Percentage": 18,
+            "Percentage": 25,
             "color": "#ffff"
         }, {
-            "Tokenomics": "Staking/Farming rewards",
-            "Percentage": 12,
+            "Tokenomics": "Staking rewards",
+            "Percentage": 15,
             "color": "#754DEB"
         }, {
             "Tokenomics": "Marketing/developments",
-            "Percentage": 10,
+            "Percentage": 5,
             "color": "#754DEB"
         }, {
             "Tokenomics": "Burn",
-            "Percentage": 40,
+            "Percentage": 50,
             "color": "#754DEB"
-        }, {
-            "Tokenomics": "Lending protocol",
-            "Percentage": 6,
-            "color": "#754DEB"
-        }, {
-            "Tokenomics": "GameFi/NFT/Metaverse",
-            "Percentage": 5,
-            "color": "#754DEB"
-        }, {
+        },  {
             "Tokenomics": "Community rewards/Airdrops",
             "color": "#fff",
-            "Percentage": 5,
+            "Percentage": 2,
             "color": "#754DEB"
         }, {
             "Tokenomics": "Team",
-            "Percentage": 4,
+            "Percentage": 3,
             "color": "#754DEB"
         }],
         
